@@ -1,0 +1,20 @@
+
+Nombre: Mis Compras
+Objetivo: Creear una webapp usando Django que me permita administrar una lista de compras por hacer.
+
+
+
+OBJETOS:
+Producto
+--------
+-nombre
+-fechaRegistro
+-fechaCompra
+
+
+---
+ACCIONES
+- crear()
+- modificar()
+- eliminar()
+
